@@ -1,2 +1,19 @@
 
-{}
+{
+  "app_id": "sampleapp-xkfuw",
+  "name": "SampleApp",
+  "security": {
+    "allowed_request_origins": []
+  },
+  "hosting": {
+    "enabled": true,
+    "custom_domain": "",
+    "app_default_domain": ""
+  },
+  "custom_user_data_config": {
+    "enabled": false
+  }
+  "deployment_model": "GLOBAL",
+  "location": "global",
+  "config_version": 1.0
+}
