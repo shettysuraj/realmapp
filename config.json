@@ -10,7 +10,7 @@
   },
   "custom_user_data_config": {
     "enabled": false
-  }
+  },
   "deployment_model": "GLOBAL",
   "location": "global",
   "config_version": 1.0
