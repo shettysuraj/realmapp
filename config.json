@@ -6,9 +6,7 @@
     "allowed_request_origins": []
   },
   "hosting": {
-    "enabled": true,
-    "custom_domain": "",
-    "app_default_domain": ""
+    "enabled": true
   },
   "custom_user_data_config": {
     "enabled": false
