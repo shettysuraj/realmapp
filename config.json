@@ -1,17 +1,19 @@
 
 {
-  "app_id": "sampleapp-xkfuw",
-  "name": "SampleApp",
-  "security": {
-    "allowed_request_origins": []
-  },
-  "hosting": {
-    "enabled": true
-  },
-  "custom_user_data_config": {
-    "enabled": false
-  },
-  "deployment_model": "GLOBAL",
-  "location": "global",
-  "config_version": 1.0
+    "app_id": "sampleapp-xkfuw",
+    "config_version": 20200603,
+    "name": "SampleApp",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL",
+    "security": {},
+    "hosting": {
+        "enabled": true,
+        "app_default_domain": "sampleapp-xkfuw.mongodbstitch.com"
+    },
+    "custom_user_data_config": {
+        "enabled": false
+    },
+    "sync": {
+        "development_mode_enabled": false
+    }
 }
